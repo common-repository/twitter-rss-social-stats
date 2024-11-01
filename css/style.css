@@ -1,0 +1,78 @@
+a.subscribeSidebarBox {
+    background-color: #FAFAFA;
+    border-radius: 10px 10px 10px 10px;
+}
+a.subscribeSidebarBox {
+min-width: 230px;
+margin-top:10px;
+border: medium none;
+cursor: pointer;
+display: block;
+height: 60px;
+margin-bottom: 8px;
+position: relative;
+font-decoration:none;
+-moz-box-shadow: 0 0 5px #888;
+-webkit-box-shadow: 0 0 5px#888;
+box-shadow: 0 0 5px #888;
+}
+#subscribeRSS .icon {
+    background-position: 0 -50px;
+}
+#followTwitter .icon {
+    background-position: -100px -50px;
+}
+#subscribeEmail .icon {
+    background-position: -200px -50px;
+}
+#sidebarSubscribe .icon {
+    
+    height: 45px;
+    left: 10px;
+    top: 10px;
+    width: 55px;
+}
+#sidebarSubscribe .count {
+    font-family: arial !important;
+    font-size: 20px;
+    font-weight: bold;
+    left: 70px;
+    text-decoration: none;
+    top: 23px;
+}
+#sidebarSubscribe .title {
+    font-family: arial !important;
+    font-size: 12px;
+    left: 70px;
+    text-decoration: none;
+    top: 8px;
+}
+#sidebarSubscribe span {
+    color: #6E6E6E;
+    display: block;
+    padding: 3px;
+    position: absolute;
+    text-shadow: 1px 1px 0 white;
+}
+.subscriberStats {
+    height: 35px;
+    padding: 5px;
+    width: 220px;
+}
+.socialIcon {
+    float: left;
+    font-size: 28px;
+    height: 32px;
+    line-height: 32px;
+    margin-right: 10px;
+}
+
+.subscriberCount {
+    border-bottom: 1px dotted #CCCCCC;
+    color: #999999;
+    float: left;
+    font-size: 28px;
+    line-height: 32px;
+    margin-right: 10px;
+}
+
